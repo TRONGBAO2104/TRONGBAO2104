@@ -1,10 +1,8 @@
-- 👋 Hello Everyone, I’m Bao, I'm 27 years old
-- 🚗 I have 4 years of experience in sales. Right, I'm a car salesman
+- 👋 Hi eeryone, I’m Bao, I'm 27 years old <em>(I hope I'm not too old for this job 👀)</em>
+- 🚗 I have nearly 4 years of experience in car sales. I used to work for famous and popular car manufacturers in Vietnam like KIA, Mazda and most recently VinFast
 
-- 👀 I interested in software developer
--  I’m currently learning HTML, CSS, JS, ReactJS
--  
-- 💞️ With me, Technology Industry really hard to me, it's not easy like other people said but I hoped I can follow and success with it
+- 💞️ I am a frontend engineer, also a problem solver. My objective is create a stunning website that can make people extremely satisfied when they experience it.
+
 - 🌱 Someone told me "When you try, The whole world will support you" 😍 
 
 
