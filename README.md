@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  Hi everyone, I’m Bao
 </h1>
 
 - 👋 Hi everyone, I’m Bao, I'm 27 years old <em>(I hope I'm not too old for this job 👀)</em>
